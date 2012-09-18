@@ -172,3 +172,18 @@
 [submodule "logstash"]
 	path = logstash
 	url = https://github.com/example42/puppet-logstash
+[submodule "vtun"]
+	path = vtun
+	url = git://github.com/lermit/puppet-vtun.git
+[submodule "bind"]
+	path = bind
+	url = git://github.com/lermit/puppet-bind.git
+[submodule "apt"]
+	path = apt
+	url = git://github.com/lermit/puppet-apt.git
+[submodule "shinken"]
+	path = shinken
+	url = git://github.com/lermit/puppet-shinken.git
+[submodule "dhcpd"]
+	path = dhcpd
+	url = git://github.com/lermit/puppet-dhcpd.git
