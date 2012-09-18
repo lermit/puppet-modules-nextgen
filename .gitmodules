@@ -48,7 +48,7 @@
 	url = git://github.com/example42/puppet-nginx.git
 [submodule "mysql"]
 	path = mysql
-	url = git://github.com/example42/puppet-mysql.git
+	url = git://github.com/lermit/puppet-mysql.git
 [submodule "apache"]
 	path = apache
 	url = git://github.com/example42/puppet-apache.git
