@@ -3,7 +3,7 @@ before_install:
  - git submodule update --init --recursive
 notifications:
   email:
-    - al@lab42.it
+    - romain42@gmail.com
 env:
   - PUPPET_VERSION=2.6.17
   - PUPPET_VERSION=2.7.19
