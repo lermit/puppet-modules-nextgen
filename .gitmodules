@@ -102,7 +102,7 @@
 	url = git://github.com/example42/puppet-puppetdb
 [submodule "postgresql"]
 	path = postgresql
-	url = git://github.com/example42/puppet-postgresql
+	url = git://github.com/lermit/puppet-postgresql
 [submodule "foreman"]
 	path = foreman
 	url = git://github.com/example42/puppet-foreman
