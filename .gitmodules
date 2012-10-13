@@ -22,9 +22,6 @@
 [submodule "monitor"]
 	path = monitor
 	url = git://github.com/example42/puppet-monitor
-[submodule "stdlib42"]
-	path = stdlib42
-	url = git://github.com/example42/puppet-stdlib42
 [submodule "firewall"]
 	path = firewall
 	url = git://github.com/example42/puppet-firewall
@@ -187,3 +184,21 @@
 [submodule "dhcpd"]
 	path = dhcpd
 	url = git://github.com/lermit/puppet-dhcpd.git
+[submodule "user"]
+	path = user
+	url = git://github.com/example42/puppet-user
+[submodule "heartbeat"]
+	path = heartbeat
+	url = git://github.com/example42/puppet-heartbeat
+[submodule "rsyslog"]
+	path = rsyslog
+	url = git://github.com/example42/puppet-rsyslog
+[submodule "scmserver"]
+	path = scmserver
+	url = git://github.com/example42/puppet-scmserver
+[submodule "lighttpd"]
+	path = lighttpd
+	url = git://github.com/example42/puppet-lighttpd
+[submodule "tinc"]
+	path = tinc
+	url = git://github.com/example42/puppet-tinc
